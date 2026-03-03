@@ -9,4 +9,13 @@ nltk
 sentencepiece
 protobuf
 ipykernel
+ipywidgets
 wordcloud
+simpletransformers
+tensorboardx
+transformers
+accelerate
+tensorflow
+optimum
+datasets
+scikit-learn
