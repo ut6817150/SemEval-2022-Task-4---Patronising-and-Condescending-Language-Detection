@@ -29,7 +29,7 @@ Binary classification of Patronising and Condescending Language (PCL) from news 
 ├── Exercise_4.ipynb                         # Model training (baseline + BestModel)
 ├── Exercise_5.ipynb                         # Evaluation and error analysis
 │
-├── dev.txt                                  # Dev set predictions (2,093 lines)
+├── dev.txt                                  # Dev set predictions (2,094 lines)
 └── test.txt                                 # Test set predictions (3,832 lines)
 ```
 
